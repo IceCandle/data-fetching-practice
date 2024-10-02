@@ -1,0 +1,26 @@
+.post-detail {
+  padding: 20px;
+}
+
+.post-detail h2 {
+  margin-bottom: 10px;
+}
+
+.post-detail h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.post-detail ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post-detail li {
+  margin-bottom: 15px;
+}
+
+.post-detail strong {
+  display: block;
+  margin-bottom: 5px;
+}
