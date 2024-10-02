@@ -1,0 +1,18 @@
+.post-list {
+  border-right: 2px solid red;
+}
+
+.post-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post-list li {
+  cursor: pointer;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.post-list li.selected {
+  background-color: #e0e0e0;
+}
